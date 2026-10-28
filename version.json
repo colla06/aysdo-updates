@@ -1,0 +1,10 @@
+{
+  "versionCode": 4,
+  "versionName": "1.2.1",
+  "apk": "https://github.com/colla06/aysdo-updates/releases/download/v1.2.1/aysdo-1.2.1.apk",
+  "novedades": [
+    "Las actualizaciones ya funcionan de verdad, sin depender del ordenador",
+    "La dirección de las actualizaciones viene puesta: no hay que tocar nada"
+  ],
+  "obligatoria": false
+}
