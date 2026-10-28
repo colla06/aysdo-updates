@@ -1,14 +1,14 @@
 {
-  "versionCode": 7,
-  "versionName": "1.3.0",
-  "apk": "https://github.com/colla06/aysdo-updates/releases/download/v1.3.0/aysdo-1.3.0.apk",
+  "versionCode": 8,
+  "versionName": "1.3.1",
+  "apk": "https://github.com/colla06/aysdo-updates/releases/download/v1.3.1/aysdo-1.3.1.apk",
   "novedades": [
     "El móvil se trae solo el catálogo entero: ya salen todas las series",
     "Buscador nuevo: si no está en el móvil, lo busca en la web al momento",
     "Si un anime acaba de salir, la app se entera sola",
     "Temporadas de cada anime, también en AnimeAV1",
     "El botón de subtitulado / latino solo sale si la serie está doblada",
-    "El reproductor se ve mejor y se maneja con gestos"
+    "Los ajustes quedan más limpios: la actualización se busca sola"
   ],
   "obligatoria": false
 }
