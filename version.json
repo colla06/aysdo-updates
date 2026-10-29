@@ -1,11 +1,10 @@
 {
-  "versionCode": 12,
-  "versionName": "1.3.5",
-  "apk": "https://github.com/colla06/aysdo-updates/releases/download/v1.3.5/aysdo-1.3.5.apk",
+  "versionCode": 13,
+  "versionName": "1.3.6",
+  "apk": "https://github.com/colla06/aysdo-updates/releases/download/v1.3.6/aysdo-1.3.6.apk",
   "novedades": [
-    "Al cambiar de servidor (JKAnime / AnimeAV1) ya cambia todo al momento, sin salir y entrar de la app",
-    "Los 'ultimos capitulos' y el horario pasan a ser los de la web que elijas",
-    "La primera vez que usas una web, su catalogo se baja entero de una vez en vez de a trozos"
+    "La app mira si hay version nueva al abrir y cada dos minutos, no cada seis horas",
+    "La actualizacion se descarga sola: solo queda confirmar y darle a Instalar"
   ],
   "obligatoria": false
 }
