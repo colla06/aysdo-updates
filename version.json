@@ -1,12 +1,15 @@
 {
-  "versionCode": 10,
-  "versionName": "1.3.3",
-  "apk": "https://github.com/colla06/aysdo-updates/releases/download/v1.3.3/aysdo-1.3.3.apk",
+  "versionCode": 11,
+  "versionName": "1.3.4",
+  "apk": "https://github.com/colla06/aysdo-updates/releases/download/v1.3.4/aysdo-1.3.4.apk",
   "novedades": [
-    "Buscar va mucho más rápido al escribir: ya no se queda pensando en cada letra",
-    "La búsqueda en la web espera a que termines de escribir, en vez de preguntar por cada tecla",
-    "Buscar encuentra las series aunque el título esté escrito de otra forma",
-    "Arreglado el buscador de JKAnime, que no devolvía nada desde hace unos días"
+    "El catálogo ya trae todas las series de JKAnime (5.057), no solo la mitad",
+    "Arreglado: cuando la web bloqueaba, la app se creía que había terminado de bajar el catálogo",
+    "El listado se baja despacio, para que la web no bloquee",
+    "Los avisos salen a las 8:00, a las 16:00 y a las 00:00, a la hora de tu móvil",
+    "Arreglado: al instalar una versión nueva, los avisos se quedaban sin programar",
+    "Nota nueva que explica de dónde sale el catálogo (se quita con la X)",
+    "En Ajustes puedes repasar el catálogo entero cuando quieras"
   ],
   "obligatoria": false
 }
