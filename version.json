@@ -1,10 +1,10 @@
 {
-  "versionCode": 17,
-  "versionName": "1.3.10",
-  "apk": "https://github.com/colla06/aysdo-updates/releases/download/v1.3.10/aysdo-1.3.10.apk",
+  "versionCode": 18,
+  "versionName": "1.3.11",
+  "apk": "https://github.com/colla06/aysdo-updates/releases/download/v1.3.11/aysdo-1.3.11.apk",
   "novedades": [
-    "Arreglado: al pasar al capitulo siguiente desde el reproductor ya queda apuntado como visto",
-    "El historial se actualiza solo al cambiar de capitulo"
+    "La pantalla ya no se queda encendida con el capitulo en pausa: el movil se suspende como lo tengas configurado",
+    "Mientras estas viendo el capitulo la pantalla sigue encendida, igual que antes"
   ],
   "obligatoria": false
 }
