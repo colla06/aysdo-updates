@@ -1,12 +1,10 @@
 {
-  "versionCode": 16,
-  "versionName": "1.3.9",
-  "apk": "https://github.com/colla06/aysdo-updates/releases/download/v1.3.9/aysdo-1.3.9.apk",
+  "versionCode": 17,
+  "versionName": "1.3.10",
+  "apk": "https://github.com/colla06/aysdo-updates/releases/download/v1.3.10/aysdo-1.3.10.apk",
   "novedades": [
-    "Arreglado: al pasar al capitulo siguiente se seguia oyendo el anterior por detras",
-    "Arreglado: al cambiar de capitulo la app se quedaba clavada y habia que reiniciarla",
-    "Arreglado: la app se cerraba sola al abrir capitulos de series con muchisimos episodios",
-    "El boton de Siguiente ya no queda tapado por la barra del movil"
+    "Arreglado: al pasar al capitulo siguiente desde el reproductor ya queda apuntado como visto",
+    "El historial se actualiza solo al cambiar de capitulo"
   ],
   "obligatoria": false
 }
